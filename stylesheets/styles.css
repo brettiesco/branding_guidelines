@@ -193,11 +193,9 @@ footer {
 }
 
 .circle {
-  width:100px;
-  height:100px;
-  border-radius:50px;
-  background:#f2cc15;
-  
+  width:50px;
+  height:50px;
+  padding: 10px;
 }
 
 @media print, screen and (max-width: 960px) {
