@@ -1,3 +1,2 @@
 branding_guidelines
 ======================
-hello!
