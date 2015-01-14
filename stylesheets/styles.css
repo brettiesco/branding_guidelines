@@ -1,10 +1,10 @@
 @font-face {
-  font-family: "Museo 100";
-  src: url("http://typefront.com/fonts/825592869.eot");
+  font-family: "Museo 300";
+  src: url("http://typefront.com/fonts/825592870.eot");
   src: local("☺"),
-       url("http://typefront.com/fonts/825592869.woff") format("woff"),
-       url("http://typefront.com/fonts/825592869.ttf") format("truetype"),
-       url("http://typefront.com/fonts/825592869.svg") format("svg");
+       url("http://typefront.com/fonts/825592870.woff") format("woff"),
+       url("http://typefront.com/fonts/825592870.ttf") format("truetype"),
+       url("http://typefront.com/fonts/825592870.svg") format("svg");
 }
 
 body {
@@ -18,7 +18,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   color: #efefef;
   margin:0 0 20px;
-  font-family: "Museo 100";
+  font-family: "Museo 300";
 }
 
 p, ul, ol, table, pre, dl {
