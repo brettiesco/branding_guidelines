@@ -35,6 +35,7 @@ h1 {
 
 h2 {
   color:#CCCCCC;
+  margin: 20px;
 }
 
 h3, h4, h5, h6 {
@@ -42,14 +43,14 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#39c;
+  color:#447cbf;
   font-weight:400;
   text-decoration:none;
 }
 
 a small {
   font-size:11px;
-  color:#777;
+  color:#447cbf;
   margin-top:-0.6em;
   display:block;
 }
