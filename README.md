@@ -1,3 +1,3 @@
-interactive_styleguide
+branding_guidelines
 ======================
 hello!
