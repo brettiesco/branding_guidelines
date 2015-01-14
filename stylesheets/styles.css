@@ -35,11 +35,14 @@ h1 {
 
 h2 {
   color:#CCCCCC;
-  margin: 20px;
 }
 
-h3, h4, h5, h6 {
+h3, h5, h6 {
   color: #EDCC36;
+}
+
+h4 {
+  font: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 a {
