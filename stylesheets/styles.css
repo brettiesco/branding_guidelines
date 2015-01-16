@@ -149,8 +149,8 @@ strong {
 }
 
 header ul li + li {
-  width:140px;
-  border-left:1px solid #000000;
+  width:120px;
+  border-left:1px solid #7b7b7b;
 }
 
 header ul li + li + li {
