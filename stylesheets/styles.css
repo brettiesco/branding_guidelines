@@ -124,11 +124,11 @@ header ul {
   background: #447cbf;
   border-radius:5px;
   border:1px solid #000;
-  width:270px;
+  width:300px;
 }
 
 header li {
-  width:70px;
+  width:80px;
   float:left;
   height:40px;
 }
@@ -149,7 +149,7 @@ strong {
 }
 
 header ul li + li {
-  width:240px;
+  width:300px;
   border-left:1px solid #000000;
 }
 
