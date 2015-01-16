@@ -149,6 +149,14 @@ strong {
   font-weight:700;
 }
 
+medium {
+  font-weight:500;
+}
+
+bold {
+  font-weight:500;
+}
+
 header ul li + li {
   width:150px;
   border-left:1px solid #7b7b7b;
