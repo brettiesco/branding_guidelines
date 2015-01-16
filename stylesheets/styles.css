@@ -121,14 +121,14 @@ header ul {
   list-style:none;
   height:40px;
   padding:0;
-  background: #f2cc15;
+  background: #CCCCCC;
   border-radius:5px;
   border:1px solid #000;
   width:270px;
 }
 
 header li {
-  width:89px;
+  width:80px;
   float:left;
   height:40px;
 }
@@ -149,13 +149,13 @@ strong {
 }
 
 header ul li + li {
-  width:120px;
+  width:240px;
   border-left:1px solid #000000;
 }
 
 header ul li + li + li {
   border-right:none;
-  width:120px;
+  width:300px;
 }
 
 header ul a strong {
