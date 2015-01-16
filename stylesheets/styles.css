@@ -121,14 +121,14 @@ header ul {
   list-style:none;
   height:40px;
   padding:0;
-  background: #CCCCCC;
+  background: #447cbf;
   border-radius:5px;
   border:1px solid #000;
   width:270px;
 }
 
 header li {
-  width:80px;
+  width:70px;
   float:left;
   height:40px;
 }
