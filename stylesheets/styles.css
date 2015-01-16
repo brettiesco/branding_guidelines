@@ -129,7 +129,7 @@ header ul {
 }
 
 header li {
-  width:120px;
+  width:130px;
   float:left;
   height:40px;
 }
@@ -150,7 +150,7 @@ strong {
 }
 
 header ul li + li {
-  width:120px;
+  width:130px;
   border-left:1px solid #7b7b7b;
 }
 
