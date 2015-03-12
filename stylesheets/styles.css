@@ -13,6 +13,19 @@ body {
   color: #CCCCCC;
   font-weight:300;
   background-color: #333333;
+  
+  .circle {
+			border-radius: 50%;
+			display: inline-block;
+			margin-right: 20px;
+}
+
+#circle1 {
+  width: 100px;
+  height: 100px;
+  background: #EDCC36;
+}
+  
 }
 
 h1, h2, h3, h5, h6 {
