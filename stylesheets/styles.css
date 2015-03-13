@@ -198,14 +198,13 @@ footer {
   bottom:50px;
 }
 
+.left {
+    float: left;
+    width: 1000px;
+}
 
 .right {
     float: right;
-    width: 500px;
-}
-
-.left {
-    float: left;
     width: 500px;
 }
 
